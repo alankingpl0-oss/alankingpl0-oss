@@ -1,5 +1,5 @@
 # AlanKingPL #
-Lubię język C, nie ciągnie mnie do C++. Szczególnie nie lubię praktyk typu _"C z coatem_", czyli piszemy czysty kod w C, ale dajemy mu rozsszerzenie cpp tylko po to, by zamiast printf użyć kurde jakiegoś coat. Kto wymyślił?!!
+Lubię język C, nie ciągnie mnie do C++. Szczególnie nie lubię praktyk typu _"C++ z coutem_", czyli piszemy czysty kod w C, ale dajemy mu rozsszerzenie cpp tylko po to, by zamiast printf użyć kurde jakiegoś coat. Kto wymyślił?!!
 
 <!-- ████████████████████████████████████████████████████ -->
 <!--              AlanKingPL — GITHUB README         -->
@@ -25,7 +25,7 @@ Skontaktuj się ze mną przez e-mail: maksoft@kolejopedia.pl.
  * Lubię język C.
  * Nie specjalnie C++.
  * Często piszę programy w asemblerze **NASM**.
- * Nie lubię praktyk _C z coatem_.
+ * Nie lubię praktyk _C++ z coutem_.
  * **Pracuję nad nadchodzącym system operacyjnym Pinics (Pingwin Information & Computing Service) bazowanym na xv6. **
  * Eksperymentuję z Fortranem, znadzie się też Pascal (głównie Free Pascal, a nawet Turbo Pascal).
 
