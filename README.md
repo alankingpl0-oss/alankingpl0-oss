@@ -39,7 +39,7 @@ Skontaktuj się ze mną przez e-mail: maksoft@kolejopedia.pl.
 
 ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile,Python&cache_seconds=1800)
 
-## 📈 Contribution Activity
+## 📈 Moja aktywność
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=alankingpl0-oss&custom_title=Moja%20aktywność&bg_color=0d1117&color=00D4FF&line=ff6b9d&point=7c3aed&area=true&hide_border=false&border_color=533483&radius=8"/>
