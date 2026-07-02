@@ -5,6 +5,7 @@ Lubię język C, nie ciągnie mnie do C++. Szczególnie nie lubię praktyk typu 
 
 <!-- ████████████████████████████████████████████████████ -->
 <!--              AlanKingPL — GITHUB README         -->
+
 <!-- ████████████████████████████████████████████████████ -->
 
 <div align="center">
