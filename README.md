@@ -25,6 +25,7 @@ Lubię język C, nie ciągnie mnie do C++. Szczególnie nie lubię praktyk typu 
  * Często piszę programy w asemblerze **NASM**.
  * Nie lubię praktyk _C z coatem_.
  * **Pracuję nad nadchodzącym system operacyjnym Pinics (Pingwin Information & Computing Service) bazowanym na xv6. **
+ * Eksperymentuję z Fortranem, znadzie się też Pascal (głównie Free Pascal, a nawet Turbo Pascal).
 
 ## Nadal nie wierzysz, że używam C? ##
 <!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
@@ -36,6 +37,7 @@ Lubię język C, nie ciągnie mnie do C++. Szczególnie nie lubię praktyk typu 
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RavirajAvaghade&layout=compact&theme=radical&border_radius=12&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&border_color=533483&langs_count=8"/>
 -->
+Tak wiem, że ten Python trochę razi w oczy, ale to tylko skrypty pomocnicze. Do prawdziwych programów tylko języki kompilowane.
 
 Nie wiem czemu jest po angielsku. Pewnie coś jest zwalone koncertowo, ale wiadomo o co chodzi.
 
