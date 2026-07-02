@@ -19,10 +19,12 @@ Lubię język C, nie ciągnie mnie do C++. Szczególnie nie lubię praktyk typu 
 
 <br/>
 
+ * Programy Open Source wydaję tylko na licencji GPL, zazwyczaj 2.0.
  * Lubię język C.
  * Nie specjalnie C++.
  * Często piszę programy w asemblerze **NASM**.
  * Nie lubię praktyk _C z coatem_.
+ * **Pracuję nad nadchodzącym system operacyjnym Pinics (Pingwin Information & Computing Service) bazowanym na xv6. **
 
 ## Nadal nie wierzysz, że używam C? ##
 <!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
@@ -47,6 +49,8 @@ Nie wiem czemu jest po angielsku. Pewnie coś jest zwalone koncertowo, ale wiado
 <br clear="right"/>
 
 ---
+
+*Copyleft 2026 AlanKingPL. All rights reversed.*
 
 
 <!-- ## Hi there 👋
