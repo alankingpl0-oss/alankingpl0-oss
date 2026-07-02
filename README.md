@@ -10,7 +10,9 @@ Lubię język C, nie ciągnie mnie do C++. Szczególnie nie lubię praktyk typu 
 
 
 
+## Kontakt ##
 
+Skontaktuj się ze mną przez e-mail: maksoft@kolejopedia.pl.
 
 ---
 
