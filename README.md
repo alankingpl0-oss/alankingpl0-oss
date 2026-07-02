@@ -33,7 +33,11 @@ Skontaktuj się ze mną przez e-mail: maksoft@kolejopedia.pl.
 ## Nadal nie wierzysz, że używam C? ##
 <!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
 
-![Najczęściej używane języki](http://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile)
+<!-- ![Najczęściej używane języki](http://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile)-->
+
+<!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
+
+![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile&cache_seconds=1800)
 
 <!--
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ravirajavaghade&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12&bg_color=0d1117&title_color=00D4FF&icon_color=ff6b9d&text_color=ffffff&border_color=533483"/>
