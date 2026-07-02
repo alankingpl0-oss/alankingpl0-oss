@@ -1,6 +1,8 @@
 # AlanKingPL #
 Lubię język C, nie ciągnie mnie do C++. Szczególnie nie lubię praktyk typu _"C++ z coutem_", czyli piszemy czysty kod w C, ale dajemy mu rozsszerzenie cpp tylko po to, by zamiast printf użyć kurde jakiegoś coat. Kto wymyślił?!!
 
+# Linux! Tylko Linux! #
+
 <!-- ████████████████████████████████████████████████████ -->
 <!--              AlanKingPL — GITHUB README         -->
 <!-- ████████████████████████████████████████████████████ -->
