@@ -27,7 +27,7 @@ Skontaktuj się ze mną przez e-mail: maksoft@kolejopedia.pl.
  * Nie specjalnie C++.
  * Często piszę programy w asemblerze **NASM**.
  * Nie lubię praktyk _C++ z coutem_.
- * **Pracuję nad nadchodzącym system operacyjnym Pinics (Pingwin Information & Computing Service) bazowanym na xv6. **
+ * Pracuję nad nadchodzącym system operacyjnym Pinics (Pingwin Information & Computing Service) bazowanym na xv6.
  * Eksperymentuję z Fortranem, znadzie się też Pascal (głównie Free Pascal, a nawet Turbo Pascal).
 
 ## Nadal nie wierzysz, że używam C? ##
