@@ -20,7 +20,6 @@ Skontaktuj się ze mną przez e-mail: maksoft@kolejopedia.pl.
 
 ## 🌟 O mnie ##
 
-
 <br/>
 
  * Programy Open Source wydaję tylko na licencji GPL, zazwyczaj 2.0.
