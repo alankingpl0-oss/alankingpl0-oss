@@ -24,7 +24,7 @@ Lubię język C, nie ciągnie mnie do C++. Szczególnie nie lubię praktyk typu 
  * Często piszę programy w asemblerze **NASM**.
  * Nie lubię praktyk _C z coatem_.
 
-## Nadal nie wieżysz, że używam C? ##
+## Nadal nie wierzysz, że używam C? ##
 <!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
 
 ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl)
