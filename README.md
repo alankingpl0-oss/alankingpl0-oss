@@ -29,6 +29,12 @@ Lubię język C, nie ciągnie mnie do C++. Szczególnie nie lubię praktyk typu 
 
 ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl)
 
+<!--
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ravirajavaghade&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12&bg_color=0d1117&title_color=00D4FF&icon_color=ff6b9d&text_color=ffffff&border_color=533483"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RavirajAvaghade&layout=compact&theme=radical&border_radius=12&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&border_color=533483&langs_count=8"/>
+-->
+
 Nie wiem czemu jest po angielsku. Pewnie coś jest zwalone koncertowo, ale wiadomo o co chodzi.
 
 <!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&theme=vision-friendly-dark&locale=pl) -->
