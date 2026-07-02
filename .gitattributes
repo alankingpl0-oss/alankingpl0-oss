@@ -1,0 +1,5 @@
+# Opcja 1: Całkowite ukrycie plików .bat ze statystyk językowych
+*.bat linguist-vendored
+
+# Opcja 2: Alternatywnie możesz oznaczyć je jako dokumentację
+# *.bat linguist-documentation
