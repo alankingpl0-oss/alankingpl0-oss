@@ -30,21 +30,20 @@ Skontaktuj się ze mną przez e-mail: maksoft@kolejopedia.pl.
  * Pracuję nad nadchodzącym system operacyjnym Pinics (Pingwin Information & Computing Service) bazowanym na xv6.
  * Eksperymentuję z Fortranem, znadzie się też Pascal (głównie Free Pascal, a nawet Turbo Pascal).
 
-## Nadal nie wierzysz, że używam C? ##
+## Nadal nie wierzysz, że używam C i NASM? ##
 <!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
 
 <!-- ![Najczęściej używane języki](http://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile)-->
 
 <!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
 
-![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile&cache_seconds=1800)
+![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile,Python&cache_seconds=1800)
 
 <!--
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ravirajavaghade&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12&bg_color=0d1117&title_color=00D4FF&icon_color=ff6b9d&text_color=ffffff&border_color=533483"/>
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RavirajAvaghade&layout=compact&theme=radical&border_radius=12&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&border_color=533483&langs_count=8"/>
 -->
-Tak wiem, że ten Python trochę razi w oczy, ale to tylko skrypty pomocnicze. Do prawdziwych programów tylko języki kompilowane.
 
 Nie wiem czemu jest po angielsku. Pewnie coś jest zwalone koncertowo, ale wiadomo o co chodzi.
 
