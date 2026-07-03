@@ -1,7 +1,8 @@
 # AlanKingPL #
-Lubię język C, nie ciągnie mnie do C++. Szczególnie nie lubię praktyk typu _"C++ z coutem_", czyli piszemy czysty kod w C, ale dajemy mu rozsszerzenie cpp tylko po to, by zamiast printf użyć kurde jakiegoś coat. Kto wymyślił?!!
+Lubię język C, nie ciągnie mnie do C++, bo jest zbyt dziwaczny. Szczególnie nie lubię praktyk typu _"C++ z coutem_", czyli piszemy czysty kod w C, ale dajemy mu rozsszerzenie cpp tylko po to, by zamiast printf użyć kurde jakiegoś coat. Kto wymyślił?!!
 
 # Linux! Tylko Linux! #
+Moje odznaki.
 
 ![GPL 2.0](https://img.shields.io/badge/License-GPL_v2-blue.svg?style=plastic)
 ![GPL 3.0](https://img.shields.io/badge/License-GPL_v3-blue.svg?style=plastic)
@@ -9,9 +10,14 @@ Lubię język C, nie ciągnie mnie do C++. Szczególnie nie lubię praktyk typu 
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-A8B9CC?style=plastic&logo=assemblyscript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![Fortran](https://img.shields.io/badge/Fortran-734F96?style=plastic&logo=fortran&logoColor=white)
-
-
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=plastic&logo=fortran&logoColor=white)<br></br>
+![GCC](https://img.shields.io/badge/GCC-FFCC00?style=plastic&logo=gnu&logoColor=black)
+![Make](https://img.shields.io/badge/GNU_Make-00599C?style=plastic&logo=gnu&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
+<br></br>
+![GitHub Stars](https://img.shields.io/github/stars/alankingpl0-oss?style=plastic)
+![GitHub Repos](https://img.shields.io/github/repos/alankingpl0-oss?style=plastic&color=blue)
 
 <!-- ████████████████████████████████████████████████████ -->
 <!--              AlanKingPL — GITHUB README         -->
