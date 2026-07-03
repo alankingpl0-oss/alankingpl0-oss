@@ -14,7 +14,6 @@ Moje odznaki.
 ![GCC](https://img.shields.io/badge/GCC-FFCC00?style=plastic&logo=gnu&logoColor=black)
 ![Make](https://img.shields.io/badge/GNU_Make-00599C?style=plastic&logo=gnu&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
-
 <br></br>
 ![GitHub Stars](https://img.shields.io/github/stars/alankingpl0-oss?style=plastic)
 <!--![GitHub Repos](https://img.shields.io/github/repos/alankingpl0-oss?style=plastic&color=blue)-->
