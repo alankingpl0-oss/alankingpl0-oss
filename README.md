@@ -26,7 +26,6 @@ Moje odznaki.
 
 
 
-
 ## Kontakt ##
 
 Skontaktuj się ze mną przez e-mail: maksoft@kolejopedia.pl.
