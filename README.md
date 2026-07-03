@@ -40,7 +40,7 @@ Skontaktuj się ze mną przez e-mail: maksoft@kolejopedia.pl.
 ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile,Python&cache_seconds=1800)
 
 
-![Moje Licencje](https://raw.githubusercontent.com/alankingpl0-oss/alankingpl0-oss/main/licencje.svg)
+<!--![Moje Licencje](https://raw.githubusercontent.com/alankingpl0-oss/alankingpl0-oss/main/licencje.svg)-->
 
 ## ⚖️ Używane Licencje w moich projektach
 
