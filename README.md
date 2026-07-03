@@ -3,6 +3,16 @@ Lubię język C, nie ciągnie mnie do C++. Szczególnie nie lubię praktyk typu 
 
 # Linux! Tylko Linux! #
 
+![GPL 2.0](https://img.shields.io/badge/License-GPL_v2-blue.svg?style=plastic)
+![GPL 3.0](https://img.shields.io/badge/License-GPL_v3-blue.svg?style=plastic)
+![Copyleft](https://img.shields.io/badge/Copyleft-All_rights_reversed-orange.svg?style=plastic)<br></br>
+![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-A8B9CC?style=plastic&logo=assemblyscript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=plastic&logo=fortran&logoColor=white)
+
+
+
 <!-- ████████████████████████████████████████████████████ -->
 <!--              AlanKingPL — GITHUB README         -->
 <!-- ████████████████████████████████████████████████████ -->
@@ -27,8 +37,9 @@ Skontaktuj się ze mną przez e-mail: maksoft@kolejopedia.pl.
  * Nie specjalnie C++.
  * Często piszę programy w asemblerze **NASM**.
  * Nie lubię praktyk _C++ z coutem_.
- * Pracuję nad nadchodzącym system operacyjnym Pinics (Pingwin Information & Computing Service) bazowanym na xv6.
+ * Pracuję nad nadchodzącym system operacyjnym Pinics (Pingwin Information & Computing Service) opartym na xv6.
  * Eksperymentuję z Fortranem, znadzie się też Pascal (głównie Free Pascal, a nawet Turbo Pascal).
+
 
 ## Nadal nie wierzysz, że używam C i NASM? ##
 <!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
@@ -37,15 +48,14 @@ Skontaktuj się ze mną przez e-mail: maksoft@kolejopedia.pl.
 
 <!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
 
-![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile,Python&cache_seconds=1800)
+![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=radical&locale=pl&hide=Batchfile,Python&cache_seconds=1800)
+<!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile,Python&cache_seconds=1800)
+![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=tokyonight&locale=pl&hide=Batchfile,Python&cache_seconds=1800) -->
 
 
 <!--![Moje Licencje](https://raw.githubusercontent.com/alankingpl0-oss/alankingpl0-oss/main/licencje.svg)-->
 
-## ⚖️ Używane Licencje w moich projektach
 
-![GPL 2.0](https://img.shields.io/badge/License-GPL_v2-blue.svg?style=flat-square)
-![Copyleft](https://img.shields.io/badge/Copyleft-All_rights_reversed-orange.svg?style=flat-square)
 
 
 ## 📈 Moja aktywność
@@ -70,6 +80,7 @@ Nie wiem czemu jest po angielsku. Pewnie coś jest zwalone koncertowo, ale wiado
 
 
 <br clear="right"/>
+
 
 ---
 
