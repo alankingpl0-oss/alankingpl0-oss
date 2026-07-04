@@ -70,7 +70,7 @@ Skontaktuj się ze mną przez e-mail: maksoft@kolejopedia.pl.
 
 <!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
 
-![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-light&locale=pl&hide=Batchfile,Python&cache_seconds=1800)
+![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-light&locale=pl&hide=Python&cache_seconds=1800)
 <!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile,Python&cache_seconds=1800)
 ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=tokyonight&locale=pl&hide=Batchfile,Python&cache_seconds=1800) -->
 
