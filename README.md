@@ -31,6 +31,17 @@ Moje odznaki.
 
 <div align="center">
 
+## Flagowe projekty ##
+[PNC-5](https://github.com/alankingpl0-oss/PNC-5) — autorskie kodowanie znaków 5-bitowe. ![GPL 2.0](https://img.shields.io/badge/License-GPL_v2-blue.svg?style=plastic)
+
+[PowerSzaro](https://github.com/alankingpl0-oss/PowerSzaro) — korekcja RBG do skali szarości SSE. ![GPL 3.0](https://img.shields.io/badge/License-GPL_v3-blue.svg?style=plastic)
+
+[PingSzyfr](https://github.com/alankingpl0-oss/PingSzyfr) — program szyfrujący przy uyciu XOR. ![GPL 3.0](https://img.shields.io/badge/License-GPL_v3-blue.svg?style=plastic)
+
+[PowerKilo](https://github.com/alankingpl0-oss/PowerKilo) — wygodny edytor tekstu z obsługą wtyczek. ![GPL 3.0](https://img.shields.io/badge/License-GPL_v3-blue.svg?style=plastic)
+
+[Zobacz więcej](https://github.com/alankingpl0-oss?tab=repositories)
+
 
 
 ## Kontakt ##
