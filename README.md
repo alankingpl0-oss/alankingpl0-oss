@@ -2,6 +2,13 @@
 Lubię język C, nie ciągnie mnie do C++, bo jest zbyt dziwaczny. Szczególnie nie lubię praktyk typu _"C++ z coutem_", czyli piszemy czysty kod w C, ale dajemy mu rozsszerzenie cpp tylko po to, by zamiast printf użyć kurde jakiegoś coat. Kto wymyślił?!!
 
 # Linux! Tylko Linux! #
+
+<p align="center">
+  <img src="maksoft.png" alt="Opis alternatywny" width="400" />
+</p>
+<p align="center">
+  <img src="farland.png" alt="Opis alternatywny" width="400" />
+</p>
 Moje odznaki.
 
 ![GPL 2.0](https://img.shields.io/badge/License-GPL_v2-blue.svg?style=plastic)
