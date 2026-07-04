@@ -4,11 +4,11 @@ Lubię język C, nie ciągnie mnie do C++, bo jest zbyt dziwaczny. Szczególnie 
 # Linux! Tylko Linux! #
 
 <p align="center">
-  <img src="maksoft.png" alt="Opis alternatywny" width="400" />
+  <img src="makl2012.png" alt="Opis alternatywny" width="400" />
 </p>
-<p align="center">
+<!--<p align="center">
   <img src="farland.png" alt="Opis alternatywny" width="400" />
-</p>
+</p>-->
 Moje odznaki.
 
 ![GPL 2.0](https://img.shields.io/badge/License-GPL_v2-blue.svg?style=plastic)
