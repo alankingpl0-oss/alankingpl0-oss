@@ -32,6 +32,8 @@ Moje odznaki.
 <div align="center">
 
 ## Flagowe projekty ##
+[Pinics](https://github.com/alankingpl0-oss/PNC-5) — nadchodzący system operacyjny. ![GPL 3.0](https://img.shields.io/badge/License-GPL_v3-blue.svg?style=plastic)
+
 [PNC-5](https://github.com/alankingpl0-oss/PNC-5) — autorskie kodowanie znaków 5-bitowe. ![GPL 2.0](https://img.shields.io/badge/License-GPL_v2-blue.svg?style=plastic)
 
 [PowerSzaro](https://github.com/alankingpl0-oss/PowerSzaro) — korekcja RBG do skali szarości SSE. ![GPL 3.0](https://img.shields.io/badge/License-GPL_v3-blue.svg?style=plastic)
