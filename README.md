@@ -1,3 +1,4 @@
+
 # AlanKingPL #
 Lubię język C, nie ciągnie mnie do C++, bo jest zbyt dziwaczny. Szczególnie nie lubię praktyk typu _"C++ z coutem_", czyli piszemy czysty kod w C, ale dajemy mu rozsszerzenie cpp tylko po to, by zamiast printf użyć kurde jakiegoś coat. Kto wymyślił?!!
 
@@ -43,6 +44,13 @@ Moje odznaki.
 [PowerKilo](https://github.com/alankingpl0-oss/PowerKilo) — wygodny edytor tekstu z obsługą wtyczek. ![GPL 3.0](https://img.shields.io/badge/License-GPL_v3-blue.svg?style=plastic)
 
 [Zobacz więcej](https://github.com/alankingpl0-oss?tab=repositories)
+
+---
+
+
+<p align="center">
+  <img src="pingwinek2.bmp" alt="Opis alternatywny" width="400" />
+</p>
 
 
 
