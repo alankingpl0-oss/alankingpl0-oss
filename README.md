@@ -4,8 +4,13 @@ Lubię język C, nie ciągnie mnie do C++, bo jest zbyt dziwaczny. Szczególnie 
 
 # Linux! Tylko Linux! #
 
+
+
 <p align="center">
   <img src="makl2012.png" alt="Opis alternatywny" width="400" />
+</p>
+<p align="center">
+  <img src="pingwinek2.bmp" alt="Opis alternatywny" width="800" />
 </p>
 <!--<p align="center">
   <img src="farland.png" alt="Opis alternatywny" width="400" />
@@ -80,7 +85,7 @@ Moje odznaki.
 <!--![Moje Licencje](https://raw.githubusercontent.com/alankingpl0-oss/alankingpl0-oss/main/licencje.svg)-->
 
 ## Flagowe projekty ##
-[Pinics](https://github.com/alankingpl0-oss/PNC-5) — nadchodzący system operacyjny. ![GPL 3.0](https://img.shields.io/badge/License-GPL_v3-blue.svg?style=plastic)
+[Pinics](https://github.com/alankingpl0-oss/pinics) — nadchodzący system operacyjny. ![GPL 3.0](https://img.shields.io/badge/License-GPL_v3-blue.svg?style=plastic)
 
 [PNC-5](https://github.com/alankingpl0-oss/PNC-5) — autorskie kodowanie znaków 5-bitowe. ![GPL 2.0](https://img.shields.io/badge/License-GPL_v2-blue.svg?style=plastic)
 
@@ -94,11 +99,11 @@ Moje odznaki.
 
 ---
 
-
+<!--
 <p align="center">
   <img src="pingwinek2.bmp" alt="Opis alternatywny" width="400" />
 </p>
-
+-->
 
 
 ## Kontakt ##
