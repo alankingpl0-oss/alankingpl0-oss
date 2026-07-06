@@ -32,6 +32,53 @@ Moje odznaki.
 
 <div align="center">
 
+## Statystyki
+
+<div style="
+  display: inline-block;
+  padding: 5px;
+  background: linear-gradient(180deg, #ffffff 0%, #e2e8f0 40%, #cbd5e1 100%);
+  border-radius: 16px;
+  box-shadow: inset 0px 3px 5px rgba(255, 255, 255, 0.9), 
+              inset 0px -3px 5px rgba(0, 0, 0, 0.15), 
+              0px 8px 20px rgba(0, 0, 0, 0.12);
+">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alankingpl0-oss&show_icons=true&include_all_commits=true&count_private=true&border_radius=11&bg_color=ffffff&title_color=0066cc&icon_color=ff4081&text_color=2d3748&border_color=e2e8f0" />
+</div>
+
+<!--
+
+<div style="
+  display: inline-block;
+  padding: 4px;
+  background: linear-gradient(180deg, #533483 0%, #2b1b42 100%);
+  border-radius: 16px;
+  box-shadow: inset 0px 2px 4px rgba(255, 255, 255, 0.4), 
+              inset 0px -4px 6px rgba(0, 0, 0, 0.6), 
+              0px 8px 16px rgba(0, 0, 0, 0.5);
+">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alankingpl0-oss&show_icons=true&include_all_commits=true&count_private=true&border_radius=12&bg_color=1f242e&title_color=00FFFF&icon_color=ff6b9d&text_color=e0e6ed&border_color=ffffff22" />
+</div>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alankingpl0-oss&show_icons=true&theme=vision-friendly-light&include_all_commits=true&count_private=true&border_radius=12&bg_color=0d1117&title_color=00D4FF&icon_color=ff6b9d&text_color=ffffff&border_color=533483"/>
+&nbsp;&nbsp;
+
+-->
+
+### Nadal nie wierzysz, że używam C i NASM? ##
+<!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
+
+<!-- ![Najczęściej używane języki](http://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile)-->
+
+<!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
+
+![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-light&locale=pl&hide=Batchfile&cache_seconds=1800)
+<!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile,Python&cache_seconds=1800)
+![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=tokyonight&locale=pl&hide=Batchfile,Python&cache_seconds=1800) -->
+
+
+<!--![Moje Licencje](https://raw.githubusercontent.com/alankingpl0-oss/alankingpl0-oss/main/licencje.svg)-->
+
 ## Flagowe projekty ##
 [Pinics](https://github.com/alankingpl0-oss/PNC-5) — nadchodzący system operacyjny. ![GPL 3.0](https://img.shields.io/badge/License-GPL_v3-blue.svg?style=plastic)
 
@@ -73,19 +120,6 @@ Skontaktuj się ze mną przez e-mail: maksoft@kolejopedia.pl.
  * Eksperymentuję z Fortranem, znadzie się też Pascal (głównie Free Pascal, a nawet Turbo Pascal).
 
 
-## Nadal nie wierzysz, że używam C i NASM? ##
-<!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
-
-<!-- ![Najczęściej używane języki](http://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile)-->
-
-<!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
-
-![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-light&locale=pl&hide=Batchfile&cache_seconds=1800)
-<!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile,Python&cache_seconds=1800)
-![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=tokyonight&locale=pl&hide=Batchfile,Python&cache_seconds=1800) -->
-
-
-<!--![Moje Licencje](https://raw.githubusercontent.com/alankingpl0-oss/alankingpl0-oss/main/licencje.svg)-->
 
 
 
@@ -105,6 +139,7 @@ Robi wrażenie? Niski poziom nie daje anic chwili przerwy!
 Nie wiem czemu jest po angielsku. Pewnie coś jest zwalone koncertowo, ale wiadomo o co chodzi.
 
 <!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&theme=vision-friendly-dark&locale=pl) -->
+
 
 
 <br/>
