@@ -9,8 +9,10 @@ Lubię język C, nie ciągnie mnie do C++, bo jest zbyt dziwaczny. Szczególnie 
 <p align="center">
   <img src="makl2012.png" alt="Opis alternatywny" width="400" />
 </p>
+
 <p align="center">
-  <img src="pingwinek2.bmp" alt="Opis alternatywny" width="800" />
+  <img src="pingu_neg.bmp#gh-dark-mode-only" alt="Pingwinek w trybie ciemnym" width="800" />
+  <img src="pingwinek2.bmp#gh-light-mode-only" alt="Pingwinek w trybie jasnym" width="800" />
 </p>
 <!--<p align="center">
   <img src="farland.png" alt="Opis alternatywny" width="400" />
