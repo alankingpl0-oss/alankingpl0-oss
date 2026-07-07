@@ -5,10 +5,16 @@ Lubię język C, nie ciągnie mnie do C++, bo jest zbyt dziwaczny. Szczególnie 
 # Linux! Tylko Linux! #
 
 
+<p align="center">
+  <a href="https://github.com/maksoftx">
+    <img src="makl2012.png" alt="Opis alternatywny" width="400" />
+  </a>
+</p>
 
+<!--
 <p align="center">
   <img src="makl2012.png" alt="Opis alternatywny" width="400" />
-</p>
+</p>-->
 
 <p align="center">
   <img src="pingu_neg.bmp#gh-dark-mode-only" alt="Pingwinek w trybie ciemnym" width="800" />
