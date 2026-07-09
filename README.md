@@ -2,6 +2,12 @@
 # AlanKingPL #
 Lubię język C, nie ciągnie mnie do C++, bo jest zbyt dziwaczny. Szczególnie nie lubię praktyk typu _"C++ z coutem_", czyli piszemy czysty kod w C, ale dajemy mu rozsszerzenie cpp tylko po to, by zamiast printf użyć kurde jakiegoś coat. Kto wymyślił?!!
 
+# Maksoft Symulator Kuriera Interplanetarnego 2026!!
+
+<a href="http://www.maksoft.kolejopedia.pl/st/html">
+  <img src="https://img.shields.io/badge/MSKI-PowerKilo--blue?style=plastic&icon=github" width="200" alt="Pobierz">
+</a>
+
 # Linux! Tylko Linux! #
 
 
