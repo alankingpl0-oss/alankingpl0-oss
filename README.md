@@ -149,6 +149,7 @@ Skontaktuj się ze mną przez e-mail: maksoft@kolejopedia.pl.
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=alankingpl0-oss&custom_title=Moja%20aktywność&bg_color=0d1117&color=00D4FF&line=ff6b9d&point=7c3aed&area=true&hide_border=false&border_color=533483&radius=8"/>
 </div>
 Robi wrażenie? Niski poziom nie daje anic chwili przerwy!
+
 <!--
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ravirajavaghade&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12&bg_color=0d1117&title_color=00D4FF&icon_color=ff6b9d&text_color=ffffff&border_color=533483"/>
 
