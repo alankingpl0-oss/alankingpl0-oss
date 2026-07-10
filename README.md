@@ -2,11 +2,12 @@
 # AlanKingPL #
 Lubię język C, nie ciągnie mnie do C++, bo jest zbyt dziwaczny. Szczególnie nie lubię praktyk typu _"C++ z coutem_", czyli piszemy czysty kod w C, ale dajemy mu rozsszerzenie cpp tylko po to, by zamiast printf użyć kurde jakiegoś coat. Kto wymyślił?!!
 
+<!--
 # Maksoft Symulator Kuriera Interplanetarnego 2026!!
 
 <a href="http://www.maksoft.kolejopedia.pl/st/html">
   <img src="https://img.shields.io/badge/MSKI-PowerKilo--blue?style=plastic&icon=github" width="200" alt="Pobierz">
-</a>
+</a>-->
 
 # Linux! Tylko Linux! #
 
@@ -26,6 +27,14 @@ Lubię język C, nie ciągnie mnie do C++, bo jest zbyt dziwaczny. Szczególnie 
   <img src="pingu_neg.bmp#gh-dark-mode-only" alt="Pingwinek w trybie ciemnym" width="800" />
   <img src="pingwinek2.bmp#gh-light-mode-only" alt="Pingwinek w trybie jasnym" width="800" />
 </p>
+
+# Maksoft Symulator Kuriera Interplanetarnego 2026!!
+
+<a href="http://www.maksoft.kolejopedia.pl/st/html">
+  <img src="https://img.shields.io/badge/MSKI-PowerKilo--blue?style=plastic&icon=github" width="200" alt="Pobierz">
+</a>
+
+
 <!--<p align="center">
   <img src="farland.png" alt="Opis alternatywny" width="400" />
 </p>-->
@@ -99,6 +108,8 @@ Moje odznaki.
 <!--![Moje Licencje](https://raw.githubusercontent.com/alankingpl0-oss/alankingpl0-oss/main/licencje.svg)-->
 
 ## Flagowe projekty ##
+[RolAsyst](https://github.com/alankingpl0-oss/rolasyst) — Program ułatwiający życie rolnikom. ![GPL 3.0](https://img.shields.io/badge/License-GPL_v3-blue.svg?style=plastic)
+
 [Pinics](https://github.com/alankingpl0-oss/pinics) — nadchodzący system operacyjny. ![GPL 3.0](https://img.shields.io/badge/License-GPL_v3-blue.svg?style=plastic)
 
 [PNC-5](https://github.com/alankingpl0-oss/PNC-5) — autorskie kodowanie znaków 5-bitowe. ![GPL 2.0](https://img.shields.io/badge/License-GPL_v2-blue.svg?style=plastic)
