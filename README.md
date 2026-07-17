@@ -97,28 +97,7 @@ Moje odznaki.
 <!--
 https://github-stats-extended.vercel.app/api/top-langs?username=alankingpl0-oss&layout=pie&langs_count=10&theme=shadow_blue
 -->
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=alankingpl0-oss&layout=pie&langs_count=10&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=alankingpl0-oss&layout=pie&langs_count=10&theme=shadow_blue&locale=pl&hide=Batchfile)
-
-<!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
-
-<!-- ![Najczęściej używane języki](http://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile)-->
-
-<!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
-<!--
-![naczesciej](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=pie&theme=vision-friendly-light&locale=pl&hide=Batchfile&cache_seconds=1800)
-
--->
-
-<!--
-![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=@alankingpl0-oss&langs_count=6)](https://wakatime.com/@alankingpl0-oss)
--->
-<!--
-![Najczęściej używane języki](https://github-stats-extended.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-light&locale=pl&hide=Batchfile,Makefile&cache_seconds=1800)
-<!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile&cache_seconds=1800)
-![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=tokyonight&locale=pl&hide=Batchfile,Python&cache_seconds=1800) -->
--->
-
-<!--![Moje Licencje](https://raw.githubusercontent.com/alankingpl0-oss/alankingpl0-oss/main/licencje.svg)-->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=alankingpl0-oss&layout=pie&langs_count=10&theme=shadow_blue&pl&hide=Batchfile)](https://github-stats-extended.vercel.app/api/top-langs?username=alankingpl0-oss&layout=pie&langs_count=10&theme=shadow_blue&locale=pl&hide=Batchfile)
 
 ## Flagowe projekty ##
 [RolAsyst](https://github.com/alankingpl0-oss/rolasyst) — Program ułatwiający życie rolnikom. ![GPL 3.0](https://img.shields.io/badge/License-GPL_v3-blue.svg?style=plastic)
