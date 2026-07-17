@@ -100,7 +100,12 @@ Moje odznaki.
 
 <!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark) -->
 
-![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=pie&theme=vision-friendly-light&locale=pl&hide=Batchfile&cache_seconds=1800)
+![naczesciej](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=pie&theme=vision-friendly-light&locale=pl&hide=Batchfile&cache_seconds=1800)
+<!--
+![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=@alankingpl0-oss&langs_count=6)](https://wakatime.com/@alankingpl0-oss)
+-->
+
+![Najczęściej używane języki](https://github-stats-extended.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-light&locale=pl&hide=Batchfile,Makefile&cache_seconds=1800)
 <!-- ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=vision-friendly-dark&locale=pl&hide=Batchfile&cache_seconds=1800)
 ![Najczęściej używane języki](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alankingpl0-oss&layout=compact&theme=tokyonight&locale=pl&hide=Batchfile,Python&cache_seconds=1800) -->
 
